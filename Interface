@@ -1,0 +1,11 @@
+An interface is a way to interact with something.  For example, your television remote control is an interface to your television.  We needed a way to interact with our computers and so a user interface was developed to enable us to communicate with the operating system.
+There are a number of different types of user interface, each of which has a specific use.
+A command line interface presents the user with a blank screen. The computer displays a prompt and the user types in a command which is often abbreviated e.g. DIR.W to get a list of all the files in a directory. The user presses enter and the Operating System carries out the instruction.
+Once the user has learned all the commands, the system is much quicker to operate than other types of user interface.  However, it can take a long time to learn all the commands that you are likely to need.  This type of interface uses less processing power and less memory than the others.  
+
+
+With a menu interface, the user completes their tasks by choosing options from a simple menu.  Often, one menu will expand to show a further menu which provides extra options.
+Part of the screen may provide instructions for the users to read, followed by a numbered list of options from which they can choose.  The user selects the option they want with a mouse or entering the correct number.
+Menu Interfaces can be easy to use, no commands need to be learned.  They offer a step-by-step set of options until the task is completed.  Users can learn their way around with minimal training.  However, they can be slow to use, sometimes it is necessary to go through many different menu screens until you reach the option you need.  
+The most commonly used type of interface is a graphical user interface or GUI.  The user can use a mouse or pointer to double click on an icon.  This shortcut icon will then open up the chosen software.  GUIs are also known as a WIMP interface – windows, icons, menus and pointers.
+GUIs are much easier to use for beginners, they require very little training and are fairly intuitive.  They enable you to easily exchange information between software using cut and paste or ‘drag and drop’.
